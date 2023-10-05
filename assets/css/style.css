@@ -185,7 +185,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #12d640;
+/*   color: #12d640; */
+  color: #ffe8d1;
   text-decoration: none;
 }
 
@@ -730,7 +731,8 @@ section .container {
 }
 
 .services .icon-box:hover h4 a, .services .icon-box:hover p {
-  color: #12d640;
+  color: #ffe8d1;
+/*   color: #12d640; */
 }
 
 /*--------------------------------------------------------------
@@ -939,7 +941,8 @@ section .container {
 }
 
 .contact .info-box .social-links a:hover {
-  color: #12d640;
+  color: #ffe8d1;
+/*   color: #12d640; */
 }
 
 .contact .php-email-form {
